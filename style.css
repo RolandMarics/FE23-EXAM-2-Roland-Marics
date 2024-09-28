@@ -1,0 +1,63 @@
+body{
+    background-image: url(images/heart-3099970_1280.webp);
+    scroll-behavior: smooth;
+    background-size:contain;
+}
+
+footer {
+  background-color: black;
+  height: 345px;
+}
+
+#links ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+#links li {
+  list-style: none;
+}
+
+#links a {
+  color: white;
+}
+
+#links i {
+  font-size: 20px;
+}
+
+#links i:hover {
+  font-size: 25px;
+}
+
+.log {
+  text-align: center;
+  color: white;
+}
+
+#sign {
+  width: 25%;
+}
+
+b {
+  margin-left: 2rem;
+  font-size: 16px;
+  text-shadow: 8px 8px 10px  black;
+}
+
+.btn:hover {
+  font-size: 17px;
+}
+
+#sort {
+  text-align: right;
+  margin-right: 2rem;
+  font-size: 15px;
+}
+
+#sort i {
+  color: black;
+  font-size: 14px;
+}
+
+
